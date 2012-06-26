@@ -1,0 +1,6 @@
+lib/*
+include/*
+share/
+bin/
+.installed.cfg
+.Python
